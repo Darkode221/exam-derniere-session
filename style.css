@@ -1,0 +1,22 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F8F9FE;
+  }
+  
+  h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 3px teal;
+    font-size: 28px;
+    color: black;
+    background-color: beige;
+    padding: 20px;
+    border: 20px;
+  }
+
+#p1{
+    text-align: start;
+}
+
